@@ -1,3 +1,20 @@
+
+#   _____              _       _                 
+#  |  __ \            | |     | |                
+#  | |__) |_ _ _ __ __| | __ _| | __ _  ___ ___  
+#  |  ___/ _` | '__/ _` |/ _` | |/ _` |/ __/ _ \ 
+#  | |  | (_| | | | (_| | (_| | | (_| | (_| (_) |
+#  |_|   \__,_|_|  \__,_|\__,_|_|\__,_|\___\___/ 
+#
+# Repositorio de git: 
+# https://github.com/pardalaco/remove-background-python.git
+#
+# Licencia:
+# Creative Commons Attribution 4.0 International (CC BY 4.0)
+                                               
+
+
+
 import tkinter as tk
 from tkinter import filedialog
 from tkinter import PhotoImage
